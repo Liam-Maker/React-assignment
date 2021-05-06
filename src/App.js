@@ -6,7 +6,7 @@ import Menu from './Components/MenuComponent';
 
 function App() {
   return (
-    <div className="App">
+    <div >
       <Navbar dark color="primary">
         <div className="container">
           <NavbarBrand href="/">Ristorante Con Fusion</NavbarBrand>
