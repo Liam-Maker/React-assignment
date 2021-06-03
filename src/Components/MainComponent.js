@@ -18,7 +18,7 @@ const mapStateToProps = state => {
     leaders: state.leaders
   }
 }
-
+//this works
 
 class Main extends Component {
 
